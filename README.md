@@ -1,4 +1,4 @@
-# 📊 Sales Analytics Dashboard (Python + Power BI)
+# Sales Analytics Dashboard (Python + Power BI)
 
 ## Project Overview
 
